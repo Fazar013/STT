@@ -27,3 +27,5 @@ View [online Flutter documentation](https://flutter.dev/docs) that offers tutori
 If you have any questions or something is missing in the documentation:
 - Join [Alan AI Slack community](https://app.slack.com/client/TL55N530A) for support
 - Contact us at [support@alan.app](mailto:support@alan.app)
+
+https://fb.itemku.com/W9Pk
